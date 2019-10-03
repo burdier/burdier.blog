@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Luis Miguel Burdier`,
+    title: `Burdier`,
     description: `Blog sobre tecnologías y lo que se me antoje`,
     author: `@niklasmtj`,
   },
