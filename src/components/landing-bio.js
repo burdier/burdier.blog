@@ -40,7 +40,7 @@ const LandingBio = () => (
     render={data => (
       <OuterContainer>
         <Container>
-          <NameHeader>{data.site.siteMetadata.title}😳</NameHeader>
+          <NameHeader>{data.site.siteMetadata.title}</NameHeader>
           <Description>Software Developer</Description>
         </Container>
       </OuterContainer>
