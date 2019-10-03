@@ -74,13 +74,13 @@ const SiteHeader = styled.header`
 
 const Header = ({ siteTitle }) => (
   <SiteHeader>
-    <Content>
+    <GitHubLink>
       <p>
         <HomeLink to="/">{siteTitle}</HomeLink>
         <NavLink to="/blog">Blog</NavLink>
         <GitHubLink href="https://github.com/burdier">GitHub</GitHubLink>
       </p>
-    </Content>
+    </GitHubLink>
   </SiteHeader>
 )
 
