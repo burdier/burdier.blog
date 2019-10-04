@@ -1,5 +1,5 @@
 ---
-title: "First Post"
+title: "Qué Lenguaje de Programación Debería Aprender ?"
 date: "2019-03-18"
 draft: false
 path: "/blog/que-lenguaje-de-programacion-deberia-aprender"
