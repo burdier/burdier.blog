@@ -166,7 +166,7 @@ Hay dos maneras de hacerlo usando Visual Studio o manual, si estas en linux o us
 Con Visual Studio:
 
 - Ve al Solution Explorer
-- Click Derecho sobre el nombre de tu proyecto
+- Click derecho sobre el nombre de tu proyecto
 - Luego haga click en Properties
 - En el menú izquierdo seleccione Build
 - En la ultima sección  se encuentra el apartado `Output Path`
