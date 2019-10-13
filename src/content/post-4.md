@@ -65,7 +65,7 @@ Install-Package Swashbuckle.AspNetCore -Version 5.0.0-rc4
 
 Usando Manage NutGet Packages:
 
-- Click-Rerecho en el proyecto en el **Solution Explorer** >  **Manage NuGet Packages** 
+- Click derecho en el proyecto en el **Solution Explorer** >  **Manage NuGet Packages** 
 - En el Package Source  selecciona "nuget.org"
 - Asegurate de  tener activada la opción "Include prerelease"
 - En la caja de busqueda  escribe   "Swashbuckle.AspNetCore" 
