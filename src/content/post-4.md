@@ -41,7 +41,7 @@ Hay tres  componentes principales para **Swashbuckle **:
 
    ![Completed comment](https://docs.microsoft.com/en-us/visualstudio/ide/reference/media/doc-result-cs.png?view=vs-2019)
 
-   Si te fijas en la comparación *Swagger vs Insomnia* el método POST  tiene una breve descripción que dice: *Add a new pet to the store* en la documentación de tu método esto  es el ***<summary>***
+   Si te fijas en la comparación *Swagger vs Insomnia* el método POST  tiene una breve descripción que dice: *Add a new pet to the store* en la documentación de tu método esto  es el `<summary>`
 
    
 
