@@ -8,6 +8,16 @@
   Gatsby Starter Julia
 </h1>
 
+<p align="center">
+  <a href="https://burdierblog.netlify.com">
+    <img alt="Burdier blog" src="https://burdierblog.netlify.com" width="60" />
+  </a>
+</p>
+<h1 align="center">
+  Gatsby Starter Julia
+</h1>
+
+
 [GatsbyJS](https://www.gatsbyjs.org/) is a free and open source static website builder build on React. It's one implementation of the [JAMstack](https://jamstack.org/) idea which creates high speed webpages.
 
 ## 📚 Features:
